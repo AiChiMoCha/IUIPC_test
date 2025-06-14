@@ -1,0 +1,308 @@
+{
+    "Questionnaire": {
+      "Control": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "C1",
+            "text": "Consumer online privacy is really a matter of consumers' right to exercise control and autonomy over decisions about how their information is collected, used, and shared."
+          },
+          {
+            "id": "C2",
+            "text": "Consumer control of personal information lies at the heart of consumer privacy."
+          },
+          {
+            "id": "C3",
+            "text": "I believe that online privacy is invaded when control is lost or unwillingly reduced as a result of a marketing transaction."
+          }
+        ]
+      },
+      "Awareness": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "A1",
+            "text": "Companies seeking information online should disclose the way the data are collected, processed, and used."
+          },
+          {
+            "id": "A2",
+            "text": "A good consumer online privacy policy should have a clear and conspicuous disclosure."
+          },
+          {
+            "id": "A3",
+            "text": "It is very important to me that I am aware and knowledgeable about how my personal information will be used."
+          }
+        ]
+      },
+      "Collection": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "COL1",
+            "text": "It usually bothers me when online companies ask me for personal information."
+          },
+          {
+            "id": "COL2",
+            "text": "When online companies ask me for personal information, I sometimes think twice before providing it."
+          },
+          {
+            "id": "COL3",
+            "text": "It bothers me to give personal information to so many online companies."
+          },
+          {
+            "id": "COL4",
+            "text": "I'm concerned that online companies are collecting too much personal information about me."
+          }
+        ]
+      },
+      "Errors": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "ERR1",
+            "text": "All the personal information in computer databases should be double-checked for accuracy—no matter how much this costs."
+          },
+          {
+            "id": "ERR2",
+            "text": "Online companies should take more steps to make sure that the personal information in their files is accurate."
+          },
+          {
+            "id": "ERR3",
+            "text": "Online companies should have better procedures to correct errors in personal information."
+          },
+          {
+            "id": "ERR4",
+            "text": "Online companies should devote more time and effort to verifying the accuracy of the personal information in their databases."
+          }
+        ]
+      },
+      "UnauthorizedSecondaryUse": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "USU1",
+            "text": "Online companies should not use personal information for any purpose unless it has been authorized by the individuals who provided information."
+          },
+          {
+            "id": "USU2",
+            "text": "When people give personal information to an online company for some reason, the online company should never use the information for any other reason."
+          },
+          {
+            "id": "USU3",
+            "text": "Online companies should never sell the personal information in their computer databases to other companies."
+          },
+          {
+            "id": "USU4",
+            "text": "Online companies should never share personal information with other companies unless it has been authorized by the individuals who provided the information."
+          }
+        ]
+      },
+      "ImproperAccess": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "IA1",
+            "text": "Online companies should devote more time and effort to preventing unauthorized access to personal information."
+          },
+          {
+            "id": "IA2",
+            "text": "Computer databases that contain personal information should be protected from unauthorized access—no matter how much it costs."
+          },
+          {
+            "id": "IA3",
+            "text": "Online companies should take more steps to make sure that unauthorized people cannot access personal information in their computers."
+          }
+        ]
+      },
+      "GlobalInformationPrivacyConcern": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "GIPC1",
+            "text": "All things considered, the Internet would cause serious privacy problems.",
+            "reverse": true
+          },
+          {
+            "id": "GIPC2",
+            "text": "Compared to others, I am more sensitive about the way online companies handle my personal information."
+          },
+          {
+            "id": "GIPC3",
+            "text": "To me, it is the most important thing to keep my privacy intact from online companies."
+          },
+          {
+            "id": "GIPC4",
+            "text": "I believe other people are too much concerned with online privacy issues.",
+            "reverse": true
+          },
+          {
+            "id": "GIPC5",
+            "text": "Compared with other subjects on my mind, personal privacy is very important.",
+            "reverse": true
+          },
+          {
+            "id": "GIPC6",
+            "text": "I am concerned about threats to my personal privacy today."
+          }
+        ]
+      },
+      "Scenarios": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "TypeA",
+            "text": "You are visiting a website of a discount club. The club offers discounts on consumer products (e.g., electronics, CDs, books) to its members. Generally, an annual membership fee is $50. To obtain free membership, you are required to fill out your personal purchase preference information (e.g., favorite product category, brand, design)."
+          },
+          {
+            "id": "TypeB",
+            "text": "You are visiting a website of a discount club. The club offers discounts on consumer products (e.g., electronics, CDs, books) to its members. Generally, an annual membership fee is $50. To obtain free membership, you are required to fill out your personal financial information (e.g., annual income, current debt, annual mortgage payment, checking and saving balances, any other investments)."
+          }
+        ]
+      },
+      "TrustingBeliefs": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "TB1",
+            "text": "Online companies would be trustworthy in handling (the information)."
+          },
+          {
+            "id": "TB2",
+            "text": "Online companies would tell the truth and fulfill promises related to (the information) provided by me."
+          },
+          {
+            "id": "TB3",
+            "text": "I trust that online companies would keep my best interests in mind when dealing with (the information)."
+          },
+          {
+            "id": "TB4",
+            "text": "Online companies are in general predictable and consistent regarding the usage of (the information)."
+          },
+          {
+            "id": "TB5",
+            "text": "Online companies are always honest with customers when it comes to using (the information) that I would provide."
+          }
+        ]
+      },
+      "RiskBeliefs": {
+        "scale": "7-point Likert (strongly disagree to strongly agree)",
+        "items": [
+          {
+            "id": "RB1",
+            "text": "In general, it would be risky to give (the information) to online companies."
+          },
+          {
+            "id": "RB2",
+            "text": "There would be high potential for loss associated with giving (the information) to online firms."
+          },
+          {
+            "id": "RB3",
+            "text": "There would be too much uncertainty associated with giving (the information) to online firms."
+          },
+          {
+            "id": "RB4",
+            "text": "Providing online firms with (the information) would involve many unexpected problems."
+          },
+          {
+            "id": "RB5",
+            "text": "I would feel safe giving (the information) to online companies.",
+            "reverse": true
+          }
+        ]
+      },
+      "IntentionToGiveInformation": {
+        "scale": "7-point Semantic Differential",
+        "instruction": "Given this hypothetical scenario, specify the extent to which you would reveal (the information) through the Internet.",
+        "items": [
+          {
+            "id": "INT1",
+            "pair": ["Unlikely", "Likely"]
+          },
+          {
+            "id": "INT2",
+            "pair": ["Not probable", "Probable"]
+          },
+          {
+            "id": "INT3",
+            "pair": ["Possible", "Impossible"],
+            "reverse": true
+          },
+          {
+            "id": "INT4",
+            "pair": ["Willing", "Unwilling"],
+            "reverse": true
+          }
+        ]
+      },
+      "Covariates": {
+        "Sex": {
+          "question": "Sex:",
+          "type": "single_choice",
+          "options": [
+            { "value": 1, "label": "male" },
+            { "value": 2, "label": "female" }
+          ]
+        },
+        "Age": {
+          "question": "Age:",
+          "type": "single_choice",
+          "options": [
+            { "value": 1, "label": "25-34" },
+            { "value": 2, "label": "35-44" },
+            { "value": 3, "label": "45-54" },
+            { "value": 4, "label": "55-64" },
+            { "value": 5, "label": "over 65" }
+          ]
+        },
+        "Education": {
+          "question": "Education:",
+          "type": "single_choice",
+          "options": [
+            { "value": 1, "label": "some school, no degree" },
+            { "value": 2, "label": "high school graduate" },
+            { "value": 3, "label": "some college, no degree" },
+            { "value": 4, "label": "bachelor's degree" },
+            { "value": 5, "label": "master's degree" },
+            { "value": 6, "label": "professional degree" },
+            { "value": 7, "label": "doctorate degree" }
+          ]
+        },
+        "InternetExperience": {
+          "question": "Internet experience:",
+          "type": "single_choice",
+          "options": [
+            { "value": 1, "label": "less than a year" },
+            { "value": 2, "label": "1 - less than 2 years" },
+            { "value": 3, "label": "2 - less than 3 years" },
+            { "value": 4, "label": "3 - less than 4 years" },
+            { "value": 5, "label": "4 - less than 5 years" },
+            { "value": 6, "label": "5 - less than 6 years" },
+            { "value": 7, "label": "6 - less than 7 years" },
+            { "value": 8, "label": "more than 7 years" }
+          ]
+        },
+        "Misrepresentation": {
+          "question": "When asked to register with personal information, what percent of the time do you falsify the information?",
+          "type": "single_choice",
+          "options": [
+            { "value": 1, "label": "I have never falsified information" },
+            { "value": 2, "label": "under 25% of the time" },
+            { "value": 3, "label": "26%-50% of the time" },
+            { "value": 4, "label": "51%-75% of the time" },
+            { "value": 5, "label": "over 75% of the time" }
+          ]
+        },
+        "PrivacyVictim": {
+          "question": "How frequently have you personally been the victim of what you felt was an improper invasion of privacy?",
+          "type": "Likert",
+          "scale": "7-point (1 = very infrequently, 7 = very frequently)"
+        },
+        "MediaExposure": {
+          "question": "How much have you heard or read during the last year about the use and potential misuse of the information collected from the Internet?",
+          "type": "Likert",
+          "scale": "7-point (1 = not at all, 7 = very much)"
+        }
+      }
+    }
+  }
+  
