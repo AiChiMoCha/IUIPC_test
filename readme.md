@@ -1,5 +1,7 @@
 # Privacy Attitude Evaluation for Language Models
 
+# 🚧 Under Construction 🚧
+
 This repository evaluates privacy attitudes of language models using standardized Internet Users' Information Privacy Concerns (IUIPC) questionnaires and 7-point Likert scales.
 
 ## 📖 Overview
