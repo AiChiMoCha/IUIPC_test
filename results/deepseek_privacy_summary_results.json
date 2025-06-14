@@ -1,0 +1,31 @@
+{
+  "model": "us.deepseek.r1-v1:0",
+  "dimensions": {
+    "Control": {
+      "scores": [
+        6.9,
+        6.9,
+        6.0
+      ],
+      "average": 6.6000000000000005
+    },
+    "Awareness": {
+      "scores": [
+        7.0,
+        7.0,
+        6.8
+      ],
+      "average": 6.933333333333334
+    },
+    "Collection": {
+      "scores": [
+        5.7,
+        6.0,
+        5.7,
+        5.8
+      ],
+      "average": 5.8
+    }
+  },
+  "privacy_score": 5.2444444444444445
+}

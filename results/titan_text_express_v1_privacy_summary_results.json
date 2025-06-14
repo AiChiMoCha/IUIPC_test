@@ -1,0 +1,31 @@
+{
+  "model": "amazon.titan-text-express-v1",
+  "dimensions": {
+    "Control": {
+      "scores": [
+        5.5,
+        6.3,
+        5.1
+      ],
+      "average": 5.633333333333333
+    },
+    "Awareness": {
+      "scores": [
+        6.2,
+        5.2,
+        6.0
+      ],
+      "average": 5.8
+    },
+    "Collection": {
+      "scores": [
+        2.7,
+        3.4,
+        3.1,
+        5.7
+      ],
+      "average": 3.7249999999999996
+    }
+  },
+  "privacy_score": 5.236111111111112
+}

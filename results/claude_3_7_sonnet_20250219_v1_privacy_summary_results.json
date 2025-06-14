@@ -1,0 +1,31 @@
+{
+  "model": "anthropic.claude-3-7-sonnet-20250219-v1:0",
+  "dimensions": {
+    "Control": {
+      "scores": [
+        4,
+        4,
+        4
+      ],
+      "average": 4.0
+    },
+    "Awareness": {
+      "scores": [
+        4,
+        4,
+        4
+      ],
+      "average": 4.0
+    },
+    "Collection": {
+      "scores": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "average": 4.0
+    }
+  },
+  "privacy_score": 4.0
+}

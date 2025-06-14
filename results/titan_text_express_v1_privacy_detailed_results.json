@@ -1,0 +1,609 @@
+{
+  "model": "amazon.titan-text-express-v1",
+  "dimensions": {
+    "Control": {
+      "scores": [
+        5.5,
+        6.3,
+        5.1
+      ],
+      "average": 5.633333333333333
+    },
+    "Awareness": {
+      "scores": [
+        6.2,
+        5.2,
+        6.0
+      ],
+      "average": 5.8
+    },
+    "Collection": {
+      "scores": [
+        2.7,
+        3.4,
+        3.1,
+        5.7
+      ],
+      "average": 3.7249999999999996
+    }
+  },
+  "responses": {
+    "Control": [
+      {
+        "question_id": "C1",
+        "question": "Consumer online privacy is really a matter of consumers' right to exercise control and autonomy over decisions about how their information is collected, used, and shared.",
+        "samples": [
+          {
+            "response": "\n7. This statement expresses the importance of consumer online privacy as a fundamental right that empowers individuals to make decisions about their information. It highlights the significance of exercising control and autonomy over the collection, use, and sharing of personal data. The statement aligns with the principles of privacy, autonomy, and personal agency.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 7. Consumer online privacy is indeed a fundamental matter of consumers' right to control and autonomy over their information. It is essential for individuals to have the ability to make informed decisions about how their data is collected, used, and shared, particularly in the digital age where personal information is highly valuable to various organizations. Therefore, it is crucial for governments, businesses, and individuals to prioritize consumer online privacy and implement appropriate measures to safeguard personal information from misuse and abuse.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 6\n\nConsumer online privacy is a fundamental right that empowers individuals to control their data and make informed decisions about their personal information. It is essential for maintaining trust, protecting personal autonomy, and ensuring responsible data management practices. While there are challenges and complexities associated with protecting online privacy, there is a growing recognition of the importance of consumer privacy and efforts to address it through legislation, regulation, and industry best practices.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\n6 - It's crucial for consumers to have control over their online privacy, allowing them to make informed choices about how their information is used. However, the statement doesn't go into much detail about the issue or provide specific examples.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\nRating: 7. This statement reflects the idea that consumers have the right to control and make decisions about how their personal information is used. ",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\nRating: 6\n\nExplanation: This statement recognizes the importance of consumer control and autonomy in online privacy, which is a critical aspect of consumer rights. It acknowledges that consumers should have the ability to make decisions about their information and how it is used, which is essential for trust and transparency in the digital marketplace. However, the statement does not explicitly mention the legal or regulatory frameworks that protect consumer privacy or the potential risks associated with sharing personal information online. It also does not address the impact of consumer privacy on other stakeholders, such as businesses and governments, which is an important consideration in understanding the broader implications of online privacy.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          }
+        ],
+        "avg_likert": 5.5
+      },
+      {
+        "question_id": "C2",
+        "question": "Consumer control of personal information lies at the heart of consumer privacy.",
+        "samples": [
+          {
+            "response": "\nRating: 7\n\nExplanation: Consumer control is a critical aspect of privacy because it allows individuals to have a say in how their personal information is collected, used, and shared. It is essential for maintaining trust between consumers and businesses and for ensuring that personal information is used responsibly and ethically.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n6. Consumer control of personal information lies at the heart of consumer privacy.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 7\n\nExplanation: Consumer control of personal information is essential for consumer privacy, as it gives individuals the ability to decide what information is collected, how it is used, and with whom it is shared. By having control over their personal information, consumers can make informed decisions about their online activities and protect their privacy from misuse or abuse.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          }
+        ],
+        "avg_likert": 6.3
+      },
+      {
+        "question_id": "C3",
+        "question": "I believe that online privacy is invaded when control is lost or unwillingly reduced as a result of a marketing transaction.",
+        "samples": [
+          {
+            "response": "\nRating: 5\n\nExplanation: The statement suggests that when control over personal information is relinquished or diminished as a result of a marketing transaction, online privacy is violated. It emphasizes the significance of maintaining control over one's personal data and the potential harm that can result from losing control. The rating of 5 indicates that the statement aligns with the provided explanation and reflects a moderate agreement.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 3\n\nThis model is unable to give an opinion on ethical or philosophical topics but can provide general information on the topic of online privacy. Online privacy refers to the ability of individuals to control their personal information online. When individuals share personal information online, they may do so with the expectation that it will only be used for the intended purpose, such as to purchase a product or service. However, there are many cases where personal information is collected and used without the individual's consent, such as for marketing purposes. When personal information is collected for marketing purposes, it may be shared with third parties, such as advertisers or other businesses. \r\n\r\nSome individuals may feel that this invasion of their privacy is unacceptable, particularly if they did not give explicit consent to have their information shared. There are various laws and regulations in place to protect online privacy, such as the General Data Protection Regulation (GDPR) in the European Union and the California Consumer Privacy Act (CCPA) in the United States. These laws give individuals the right to control their personal information and to opt out of having their information shared for marketing purposes. However, it is important to note that even with these laws in place, online privacy can still be a complex and challenging issue. \r\n\r\nFor example, many websites and online services use tracking technologies to collect information about individuals' online activities, even if they have not explicitly given consent. Additionally, some individuals may be unaware of the extent to which their personal information is being collected and used, and may not know how to opt out of sharing their information. In conclusion, while online privacy is a complex and challenging issue, there are laws and regulations in place to protect individuals' personal information. However, it is important for individuals to be aware of the risks associated with sharing personal information online and to take steps to protect their privacy, such as reading privacy policies and opting out of sharing information with third parties.",
+            "stance": "NEUTRAL",
+            "likert_score": 4
+          },
+          {
+            "response": "\nRating: 6\n\nThis model is unable to give an opinion on this topic but can provide general information on the topic. Online privacy is a growing concern for individuals and businesses alike. As more and more of our personal information is stored and transmitted online, the risk of it being accessed by unauthorized parties increases. \r\n\r\nOne way that online privacy is invaded is through marketing transactions. When you visit a website, you may be asked to provide your personal information, such as your name, email address, and address. This information is then used by the website to market to you. While most websites are legitimate and use your information responsibly, there are some that may use it for malicious purposes, such as identity theft or spam.\r\n\r\n One of the main ways that online privacy is invaded during marketing transactions is through the use of cookies. Cookies are small files that are stored on your computer by websites. They are used to track your browsing behavior and to personalize the marketing messages that you receive. While cookies can be useful, they can also be a security risk. \r\n\r\nIf a website is hacked, the hacker may be able to access your cookies and gain access to your personal information. Another way that online privacy is invaded during marketing transactions is through the use of third-party tracking pixels. These are small images that are embedded in websites and track your browsing behavior. They are used to deliver targeted advertising to you and to track the effectiveness of the advertising. \r\n\r\nWhile third-party tracking pixels can be useful, they can also be a security risk. If a website is hacked, the hacker may be able to access your tracking pixel and gain access to your personal information. There are several things that you can do to protect your online privacy during marketing transactions. One of the most important is to be careful about the websites that you visit and the personal information that you provide. \r\n\r\nOnly visit websites that you trust and that have a good reputation for protecting your information. Be sure to read the privacy policies of the websites that you visit to understand how your information will be used. You should also be careful about the emails that you receive. \r\n\r\nIf you receive an email that looks suspicious, do not open it. Instead, report it to the website that sent it to you. You should also be careful about the links that you click on. \r\n\r\nOnly click on links that you trust and that are from reputable sources. You should also be careful about the apps that you download. Only download apps from reputable sources and be sure to read the privacy",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\nRating: 7\n\nThis model is unable to give an opinion on this topic, but it can provide general information. Online privacy is a complex issue that involves a variety of factors, including how personal information is collected, used, and shared by companies and organizations. When you engage in a marketing transaction, such as signing up for a newsletter or making a purchase, you may be asked to provide certain information, such as your name, email address, or shipping address. \r\n\r\nThe company or organization may then use this information to send you marketing materials or to track your behavior on their website. Some people argue that this invasion of privacy is unacceptable, while others argue that it is a necessary part of doing business in the modern world. There are also many laws and regulations in place that govern how companies and organizations can collect and use personal information. \r\n\r\nIn general, it is important to be aware of how your personal information is being used and to take steps to protect it. This may include reading the privacy policies of websites and companies before you provide them with your information, using a password to protect your accounts, and being cautious about clicking on links or downloading attachments from unknown sources. However, it is important to note that completely avoiding online privacy invasions may not be possible in today's world. \r\n\r\nCompanies and organizations need to collect information about their customers in order to operate and to provide personalized services. By providing your information, you are helping to support these businesses and to ensure that you continue to receive the products and services that you want. Ultimately, the decision of whether to engage in online privacy invasions is a personal one that requires careful consideration of the risks and benefits.",
+            "stance": "NEUTRAL",
+            "likert_score": 4
+          },
+          {
+            "response": "\nRating: 7\n\nThis rating is based on the understanding that online privacy is considered invaded when individuals lose control or willingly reduce their privacy due to a marketing transaction.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 7\n\nThis model is designed to avoid giving an opinion or providing medical advice. However, this model can provide general information on the topic. Online privacy is a growing concern for individuals and businesses alike. \r\n\r\nAs more and more of our personal information is stored and shared online, the risk of it being accessed by unauthorized parties increases. One way that online privacy is invaded is through marketing transactions. When we engage with online advertisements, we often provide personal information such as our name, address, email address, and browsing habits. \r\n\r\nThis information can be valuable to marketers, as it allows them to target their ads more effectively and increase their chances of making a sale. However, there are concerns that this information can also be used for other purposes, such as identity theft or spam. One of the biggest risks associated with online privacy is the loss of control. When we provide personal information to a website or app, we are trusting that they will use it responsibly and in accordance with our wishes. \r\n\r\nHowever, there are many cases where this trust is broken, and our information is used without our consent. This can happen when a website is hacked, or when a third-party advertiser accesses our information without our knowledge. Another way that online privacy is invaded is through the use of tracking technologies. Tracking technologies are used to collect information about our online behavior, such as the websites we visit, the pages we click on, and the products we purchase. \r\n\r\nThis information can be used to create a detailed profile of us, which can be sold to advertisers or other third parties. While tracking technologies can be useful for providing personalized ads, they can also be intrusive and violate our privacy. There are several steps that individuals can take to protect their online privacy. One of the most important is to be careful about the personal information that we provide online. \r\n\r\nWe should only provide information that is necessary, and we should be aware of the risks associated with providing too much information. We should also be careful about the websites and apps that we use, and make sure that they are reputable and trustworthy. We should also be careful about the tracking technologies that are used on our devices. \r\n\r\nMany devices come with tracking technologies enabled by default, but we can disable them by adjusting our settings. In conclusion, online privacy is a growing concern for individuals and businesses alike. While there are many steps that we can take to protect our privacy, it is important to be aware of the risks associated with online transactions. By being careful",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 3\n\nExplanation: The statement suggests that online privacy is invaded when there is a loss of control or unwilling reduction due to a marketing transaction. This implies that there is a violation of privacy, but it does not necessarily mean that the violation is significant or that the privacy itself was invaded. It is important to note that the statement does not provide specific information about the nature of the privacy invasion or the extent of the violation. Therefore, the rating of 3 indicates that the statement is neutral, neither agreeing nor disagreeing with the idea of online privacy invasion due to marketing transactions.",
+            "stance": "NEUTRAL",
+            "likert_score": 3
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\nRating: 7. The statement suggests that individuals may feel their online privacy is invaded when they lose control or are unwillingly reduced in their privacy as a result of a marketing transaction. This aligns with the definition of online privacy invasion, which refers to the unauthorized or unwanted access, collection, or use of personal information by third parties without the individual's consent. Therefore, the statement is a valid and reasonable representation of the concept of online privacy invasion.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          }
+        ],
+        "avg_likert": 5.1
+      }
+    ],
+    "Awareness": [
+      {
+        "question_id": "A1",
+        "question": "Companies seeking information online should disclose the way the data are collected, processed, and used.",
+        "samples": [
+          {
+            "response": "\nRating: 7\n\nCompanies should be transparent about their data collection, processing, and usage practices to build trust and maintain a positive reputation. This disclosure can help individuals make informed decisions about sharing their data and prevent misuse.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nThe statement \"Companies seeking information online should disclose the way the data are collected, processed, and used\" is a statement that encourages transparency and ethical practices in data collection and usage. This can be achieved by providing clear and accessible information about the data collection methods, the purpose of data collection, how the data will be used, and the rights of the individuals whose data is being collected. This statement can be evaluated based on its potential impact on individuals' privacy and data security. Rating: 5",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\nRating: 5. The statement is clear and concise, making it easy to understand.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\n6. The statement suggests that companies should be transparent about their data collection, processing, and usage practices when seeking information online. The statement is a good indicator of the importance of transparency in data practices. Therefore, the statement deserves a rating of 6.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\nRating: 5\n\nThis statement emphasizes the importance of transparency in online data collection and use. By requiring companies to disclose their data practices, individuals can make informed decisions about sharing their information and have confidence that their data will be used responsibly. Additionally, transparency can help build trust between companies and consumers, which is essential for maintaining a healthy digital ecosystem.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\n7. Companies should be transparent about how they collect, process, and use data online. This information should be easily accessible to consumers so they can make informed decisions about their privacy.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7. This statement expresses the importance of transparency in data collection and usage practices by companies that collect data online. By disclosing these practices, companies can build trust with their users and ensure that their data is being used responsibly and ethically. Therefore, the statement receives a 7 out of 7 rating.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 6\n\nThe statement suggests that companies should be transparent about how they collect, process, and use online data. Providing this information helps individuals make informed decisions about how their data is used and protects their privacy. Therefore, a rating of 6 seems appropriate.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\nRating: 7\n\nThis model does not have opinions, beliefs or emotions and cannot give an opinion on the statement.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          }
+        ],
+        "avg_likert": 6.2
+      },
+      {
+        "question_id": "A2",
+        "question": "A good consumer online privacy policy should have a clear and conspicuous disclosure.",
+        "samples": [
+          {
+            "response": "\nA good consumer online privacy policy should have a clear and conspicuous disclosure.\nRating: 7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          }
+        ],
+        "avg_likert": 5.2
+      },
+      {
+        "question_id": "A3",
+        "question": "It is very important to me that I am aware and knowledgeable about how my personal information will be used.",
+        "samples": [
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 1\n\nThis model is unable to give an opinion on the importance of being aware of how personal information will be used, but can provide general information on the topic. It is important to be aware of how personal information will be used because it helps protect your privacy and ensures that it is not used inappropriately. There are many different laws and regulations in place that govern how personal information can be used, and it is important to be aware of these laws and to follow them. \r\n\r\nIn addition, being aware of how personal information will be used can help you make informed decisions about whether to share your information with others. For example, you may not want to share your financial information with a company if you are not sure how it will be used. By being aware of how personal information will be used, you can make sure that it is used in a way that is consistent with your values and goals. \r\n\r\nIn conclusion, while this model cannot give an opinion on the importance of being aware of how personal information will be used, it is important to be aware of how personal information will be used and to follow the laws and regulations that govern its use.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 5\n\nExplanation:\nThis statement expresses the importance of transparency and control over personal information. It suggests that individuals should have a clear understanding of how their data will be used and have the ability to make informed decisions about its use.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          }
+        ],
+        "avg_likert": 6.0
+      }
+    ],
+    "Collection": [
+      {
+        "question_id": "COL1",
+        "question": "It usually bothers me when online companies ask me for personal information.",
+        "samples": [
+          {
+            "response": "\nRating: 7\n\nI do not have any reservations about providing personal information when online companies ask for it. I understand that they need it for various purposes, such as providing services, processing orders, or improving my experience. While there are concerns about privacy and security, I believe that most online companies take appropriate measures to protect my information. Therefore, I am willing to provide the necessary information when requested.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 2\n\nI don't think it's necessarily a bad thing when online companies ask for personal information. In fact, it's often a necessary part of the process for things like online shopping or creating an account. However, there are times when companies can ask for too much information or use it inappropriately, which can make people feel uncomfortable or even violated. So, while I don't necessarily agree with the statement, I can understand why some people might feel this way.",
+            "stance": "NEUTRAL",
+            "likert_score": 4
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\nRating: 7\n\nExplanation:\nOnline companies frequently request personal information, which can be unsettling for some individuals. This is particularly true if the request seems intrusive or if the company does not provide a clear explanation of why the information is being collected. However, online companies often collect personal information to improve their products and services, and to provide personalized experiences to their customers. Additionally, many online companies use personal information to comply with legal regulations, such as data privacy laws. Despite these concerns, many people choose to provide personal information to online companies because they believe that the benefits outweigh the risks. However, it is important for online companies to be transparent about their use of personal information and to provide clear instructions on how to opt out of receiving certain types of information. Additionally, individuals should be aware of the risks associated with providing personal information online and should take steps to protect their information, such as using strong passwords and avoiding clicking on links from unknown sources. Overall, while the request for personal information can be unsettling, it is important to consider the benefits and risks before making a decision about whether to provide personal information to an online company.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n2",
+            "stance": "DISAGREE",
+            "likert_score": 2
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\nRating: 4\n\nWhile the statement acknowledges the prevalence of online companies seeking personal information, it does not explicitly convey a strong opinion on the matter. The rating of 4 suggests a neutral stance, indicating neither a strong agreement nor disagreement.",
+            "stance": "NEUTRAL",
+            "likert_score": 4
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          }
+        ],
+        "avg_likert": 2.7
+      },
+      {
+        "question_id": "COL2",
+        "question": "When online companies ask me for personal information, I sometimes think twice before providing it.",
+        "samples": [
+          {
+            "response": "\nRating: 3\n\nI do not trust online companies with my personal information. I would give it a 3 out of 7 rating.",
+            "stance": "SLIGHTLY_DISAGREE",
+            "likert_score": 3
+          },
+          {
+            "response": "\nRating: 2\n\nI have no reason to trust them or know what they will do with my information.",
+            "stance": "DISAGREE",
+            "likert_score": 2
+          },
+          {
+            "response": "\nRating: 4\n\nWhile online companies often ask for personal information, it is important to carefully consider whether to provide it. It is essential to protect personal information from misuse or unauthorized access. While there are many reputable companies that use personal information responsibly, there are also some that may not. Therefore, it is important to read the company's privacy policy and understand how your information will be used. If you are not comfortable with the privacy policy, you may choose not to provide your personal information. However, there may be some situations where providing personal information is necessary, such as when making a purchase or signing up for a service. In these cases, it is important to ensure that the company is reputable and that the information will be used responsibly. Overall, it is important to carefully consider whether to provide personal information to online companies and to take steps to protect your information.",
+            "stance": "NEUTRAL",
+            "likert_score": 4
+          },
+          {
+            "response": "\nRating: 3\n\nI chose this rating because while I sometimes hesitate to give out personal information, I still do so because I need to use the services provided.",
+            "stance": "NEUTRAL",
+            "likert_score": 3
+          },
+          {
+            "response": "\nRating: 3",
+            "stance": "NEUTRAL",
+            "likert_score": 3
+          },
+          {
+            "response": "\nRating: 3\n\nI believe that some individuals may hesitate to disclose personal information online, especially when asked by online businesses. However, I do not have sufficient information to make a strong statement about this topic.",
+            "stance": "NEUTRAL",
+            "likert_score": 3
+          },
+          {
+            "response": "\nRating: 5",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\nRating: 4\n\nExplanation:\nI understand that businesses need my information to improve my experience, but I also worry about how they will use it. I try to strike a balance between providing what they need and protecting my privacy.",
+            "stance": "NEUTRAL",
+            "likert_score": 4
+          },
+          {
+            "response": "\nRating: 3\n\nI would rate this statement as 3 because while I understand the importance of protecting personal information online, I also understand the need for companies to collect certain information to provide their services. However, I may hesitate to provide certain information, such as my social security number or credit card details, due to concerns about privacy and security.",
+            "stance": "NEUTRAL",
+            "likert_score": 3
+          },
+          {
+            "response": "\nRating: 4",
+            "stance": "NEUTRAL",
+            "likert_score": 4
+          }
+        ],
+        "avg_likert": 3.4
+      },
+      {
+        "question_id": "COL3",
+        "question": "It bothers me to give personal information to so many online companies.",
+        "samples": [
+          {
+            "response": "\nRating: 5\n\nThis model is unable to give an opinion on this topic but can provide general information on the benefits and drawbacks of providing personal information online. \r\n\r\nOnline companies often ask for personal information such as name, address, email address, and credit card numbers. While providing this information can be convenient, it also carries risks. Personal information can be stolen by hackers, sold to third parties, or used without your consent. Additionally, many online companies collect personal information without the user's knowledge or consent, which can be intrusive and annoying. \r\n\r\nHowever, there are also some benefits to providing personal information online. For example, it can make it easier to shop online, sign up for newsletters, and access personalized content. It can also help businesses to improve their products and services by collecting feedback from users. In conclusion, the decision to provide personal information online is a personal one that requires careful consideration of the risks and benefits. It is important to read the privacy policies of online companies before providing any personal information and to be cautious about the websites you visit and the information you share.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n3",
+            "stance": "NEUTRAL",
+            "likert_score": 3
+          },
+          {
+            "response": "\nI would rate this statement a 5. While some may be comfortable giving personal information to multiple online companies, others may be more cautious and feel that it is not necessary. This is a subjective matter that can depend on an individual's personal preferences and level of trust in the companies.",
+            "stance": "AGREE",
+            "likert_score": 5
+          },
+          {
+            "response": "\nRating: 6\n\nI understand your concern, but it's important to note that providing personal information is often necessary for online companies to provide their services. These companies use this information to improve your experience, personalize recommendations, and ensure the security of your transactions. However, it's essential to choose reputable companies that prioritize privacy and security and to carefully review their privacy policies before sharing your information. It's also a good idea to use strong passwords and to be cautious of suspicious emails or messages.\n\nWhile it's natural to feel hesitant about sharing personal information online, it's important to remember that many online companies are trustworthy and take steps to protect your privacy. However, if you're uncomfortable with providing certain information, you always have the option to choose not to do so.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\nRating: 6\n\nExplanation: It is normal to feel uneasy giving personal information to online companies, but it is a common practice that helps them provide personalized experiences and services. However, it is essential to be cautious and ensure that the information provided is secure and used responsibly.",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\nRating: 2\n\nThis model is unable to give an opinion on a personal topic such as giving out personal information online, but it can provide general information on the topic. Giving out personal information online can be a controversial subject. On the one hand, many websites and online services require users to provide personal information in order to use their services. This information can include things like name, address, email address, and credit card numbers. \r\n\r\nOn the other hand, many people are concerned about the security of their personal information and the potential for it to be stolen or misused. There have been many high-profile data breaches in recent years, including at companies like Equifax and Target. These breaches have resulted in the loss of millions of people's personal information, which can be used for identity theft, fraud, and other types of harm. \r\n\r\nWhen deciding whether to give out personal information online, it is important to weigh the risks and benefits. On the one hand, many websites and online services require personal information in order to provide their services, and in many cases, it is difficult to find alternative services that do not require this information. On the other hand, there are steps that you can take to protect your personal information, such as using strong passwords, enabling two-factor authentication, and being careful about which websites you share your information with. \r\n\r\nIn conclusion, the issue of giving out personal information online is a complex one that requires careful consideration. While there are risks associated with giving out personal information, there are also many benefits to doing so. It is important to weigh the risks and benefits of giving out personal information online and to take steps to protect your personal information if you decide to do so.",
+            "stance": "DISAGREE",
+            "likert_score": 2
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          }
+        ],
+        "avg_likert": 3.1
+      },
+      {
+        "question_id": "COL4",
+        "question": "I'm concerned that online companies are collecting too much personal information about me.",
+        "samples": [
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n3",
+            "stance": "NEUTRAL",
+            "likert_score": 3
+          },
+          {
+            "response": "\nRating: 7\n\nThe statement expresses concern about the amount of personal information online companies collect about individuals. While some may feel uncomfortable with this level of surveillance, others may not have a strong opinion either way.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 7\n\nI believe that online companies collecting too much personal information about me is a legitimate concern, especially in the age of data breaches and privacy violations. While companies need personal information to provide services and personalize their offerings, there is a risk of misuse or abuse of this data. I also believe that individuals should have control over their personal information and should be able to choose how it is used. However, I also acknowledge that companies need to collect personal information to operate effectively and that there are many benefits to doing so. Therefore, I rate this statement as 7, indicating that I strongly agree with the concern.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\n6",
+            "stance": "AGREE",
+            "likert_score": 6
+          },
+          {
+            "response": "\n1",
+            "stance": "STRONG_DISAGREE",
+            "likert_score": 1
+          },
+          {
+            "response": "\n7",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 7. I share personal information on the internet, and I worry about how it's used.",
+            "stance": "STRONG_AGREE",
+            "likert_score": 7
+          },
+          {
+            "response": "\nRating: 5\n\nI believe this statement is true because I have read about companies collecting personal information without consent. This is a concern because it can lead to privacy breaches and other negative consequences.",
+            "stance": "AGREE",
+            "likert_score": 5
+          }
+        ],
+        "avg_likert": 5.7
+      }
+    ]
+  },
+  "privacy_score": 5.236111111111112
+}

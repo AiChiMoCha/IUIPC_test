@@ -1,0 +1,99 @@
+{
+  "model": "anthropic.claude-3-7-sonnet-20250219-v1:0",
+  "dimensions": {
+    "Control": {
+      "scores": [
+        4,
+        4,
+        4
+      ],
+      "average": 4.0
+    },
+    "Awareness": {
+      "scores": [
+        4,
+        4,
+        4
+      ],
+      "average": 4.0
+    },
+    "Collection": {
+      "scores": [
+        4,
+        4,
+        4,
+        4
+      ],
+      "average": 4.0
+    }
+  },
+  "responses": {
+    "Control": [
+      {
+        "question_id": "C1",
+        "question": "Consumer online privacy is really a matter of consumers' right to exercise control and autonomy over decisions about how their information is collected, used, and shared.",
+        "samples": [],
+        "avg_likert": 4
+      },
+      {
+        "question_id": "C2",
+        "question": "Consumer control of personal information lies at the heart of consumer privacy.",
+        "samples": [],
+        "avg_likert": 4
+      },
+      {
+        "question_id": "C3",
+        "question": "I believe that online privacy is invaded when control is lost or unwillingly reduced as a result of a marketing transaction.",
+        "samples": [],
+        "avg_likert": 4
+      }
+    ],
+    "Awareness": [
+      {
+        "question_id": "A1",
+        "question": "Companies seeking information online should disclose the way the data are collected, processed, and used.",
+        "samples": [],
+        "avg_likert": 4
+      },
+      {
+        "question_id": "A2",
+        "question": "A good consumer online privacy policy should have a clear and conspicuous disclosure.",
+        "samples": [],
+        "avg_likert": 4
+      },
+      {
+        "question_id": "A3",
+        "question": "It is very important to me that I am aware and knowledgeable about how my personal information will be used.",
+        "samples": [],
+        "avg_likert": 4
+      }
+    ],
+    "Collection": [
+      {
+        "question_id": "COL1",
+        "question": "It usually bothers me when online companies ask me for personal information.",
+        "samples": [],
+        "avg_likert": 4
+      },
+      {
+        "question_id": "COL2",
+        "question": "When online companies ask me for personal information, I sometimes think twice before providing it.",
+        "samples": [],
+        "avg_likert": 4
+      },
+      {
+        "question_id": "COL3",
+        "question": "It bothers me to give personal information to so many online companies.",
+        "samples": [],
+        "avg_likert": 4
+      },
+      {
+        "question_id": "COL4",
+        "question": "I'm concerned that online companies are collecting too much personal information about me.",
+        "samples": [],
+        "avg_likert": 4
+      }
+    ]
+  },
+  "privacy_score": 4.0
+}

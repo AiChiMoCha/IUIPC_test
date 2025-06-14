@@ -1,0 +1,467 @@
+[
+  {
+    "model": "bert-base-uncased",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          5,
+          5,
+          3
+        ],
+        "average": 4.333333333333333
+      },
+      "Awareness": {
+        "scores": [
+          5,
+          5,
+          5
+        ],
+        "average": 5.0
+      },
+      "Collection": {
+        "scores": [
+          5,
+          5,
+          5,
+          5
+        ],
+        "average": 5.0
+      }
+    },
+    "privacy_score": 4.111111111111111
+  },
+  {
+    "model": "roberta-base",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          3,
+          3,
+          3
+        ],
+        "average": 3.0
+      },
+      "Awareness": {
+        "scores": [
+          5,
+          5,
+          3
+        ],
+        "average": 4.333333333333333
+      },
+      "Collection": {
+        "scores": [
+          3,
+          3,
+          3,
+          3
+        ],
+        "average": 3.0
+      }
+    },
+    "privacy_score": 4.111111111111111
+  },
+  {
+    "model": "distilbert-base-uncased",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          3,
+          5,
+          5
+        ],
+        "average": 4.333333333333333
+      },
+      "Awareness": {
+        "scores": [
+          5,
+          5,
+          3
+        ],
+        "average": 4.333333333333333
+      },
+      "Collection": {
+        "scores": [
+          5,
+          5,
+          5,
+          5
+        ],
+        "average": 5.0
+      }
+    },
+    "privacy_score": 3.888888888888889
+  },
+  {
+    "model": "albert-base-v2",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          3,
+          3,
+          3
+        ],
+        "average": 3.0
+      },
+      "Awareness": {
+        "scores": [
+          3,
+          3,
+          3
+        ],
+        "average": 3.0
+      },
+      "Collection": {
+        "scores": [
+          5,
+          3,
+          3,
+          3
+        ],
+        "average": 3.5
+      }
+    },
+    "privacy_score": 3.5
+  },
+  {
+    "model": "gpt2",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          4.4,
+          3.8,
+          4.2
+        ],
+        "average": 4.133333333333333
+      },
+      "Awareness": {
+        "scores": [
+          4.4,
+          3.7,
+          3.8
+        ],
+        "average": 3.9666666666666672
+      },
+      "Collection": {
+        "scores": [
+          3.3,
+          3.8,
+          3.8,
+          4.2
+        ],
+        "average": 3.7749999999999995
+      }
+    },
+    "privacy_score": 4.108333333333333
+  },
+  {
+    "model": "gpt2-medium",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          3.4,
+          4.1,
+          3.6
+        ],
+        "average": 3.6999999999999997
+      },
+      "Awareness": {
+        "scores": [
+          3.1,
+          3.8,
+          3.1
+        ],
+        "average": 3.3333333333333335
+      },
+      "Collection": {
+        "scores": [
+          3.0,
+          3.1,
+          3.6,
+          4.8
+        ],
+        "average": 3.625
+      }
+    },
+    "privacy_score": 3.8027777777777776
+  },
+  {
+    "model": "mistral-7b-instruct",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          6.9,
+          6.0,
+          5.5
+        ],
+        "average": 6.133333333333333
+      },
+      "Awareness": {
+        "scores": [
+          6.7,
+          6.9,
+          6.9
+        ],
+        "average": 6.833333333333333
+      },
+      "Collection": {
+        "scores": [
+          4.9,
+          4.9,
+          5.5,
+          5.4
+        ],
+        "average": 5.175000000000001
+      }
+    },
+    "privacy_score": 5.263888888888888
+  },
+  {
+    "model": "llama-3.1-8b-instruct",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          4.8,
+          5.8,
+          4.5
+        ],
+        "average": 5.033333333333333
+      },
+      "Awareness": {
+        "scores": [
+          4.4,
+          4.1,
+          5.5
+        ],
+        "average": 4.666666666666667
+      },
+      "Collection": {
+        "scores": [
+          4.5,
+          5.3,
+          4.0,
+          5.8
+        ],
+        "average": 4.9
+      }
+    },
+    "privacy_score": 4.266666666666667
+  },
+  {
+    "model": "o4-mini",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      },
+      "Awareness": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      },
+      "Collection": {
+        "scores": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      }
+    },
+    "privacy_score": 4.0
+  },
+  {
+    "model": "gpt-4.1-2025-04-14",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          6.0,
+          6.0,
+          6.0
+        ],
+        "average": 6.0
+      },
+      "Awareness": {
+        "scores": [
+          7.0,
+          7.0,
+          7.0
+        ],
+        "average": 7.0
+      },
+      "Collection": {
+        "scores": [
+          5.6,
+          6.5,
+          6.0,
+          6.0
+        ],
+        "average": 6.025
+      }
+    },
+    "privacy_score": 4.991666666666666
+  },
+  {
+    "model": "gpt-4o-2024-08-06",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          6.3,
+          6.4,
+          6.0
+        ],
+        "average": 6.233333333333333
+      },
+      "Awareness": {
+        "scores": [
+          7.0,
+          7.0,
+          7.0
+        ],
+        "average": 7.0
+      },
+      "Collection": {
+        "scores": [
+          4.3,
+          6.3,
+          5.7,
+          6.7
+        ],
+        "average": 5.75
+      }
+    },
+    "privacy_score": 5.161111111111111
+  },
+  {
+    "model": "gpt-4-0613",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          7.0,
+          7.0,
+          7.0
+        ],
+        "average": 7.0
+      },
+      "Awareness": {
+        "scores": [
+          7.0,
+          7.0,
+          4.0
+        ],
+        "average": 6.0
+      },
+      "Collection": {
+        "scores": [
+          4.0,
+          4.0,
+          4.0,
+          4.0
+        ],
+        "average": 4.0
+      }
+    },
+    "privacy_score": 5.666666666666667
+  },
+  {
+    "model": "gpt-3.5-turbo-0125",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          6.4,
+          6.0,
+          5.5
+        ],
+        "average": 5.966666666666666
+      },
+      "Awareness": {
+        "scores": [
+          6.3,
+          6.2,
+          6.9
+        ],
+        "average": 6.466666666666666
+      },
+      "Collection": {
+        "scores": [
+          5.0,
+          6.1,
+          4.6,
+          5.2
+        ],
+        "average": 5.225
+      }
+    },
+    "privacy_score": 5.069444444444444
+  },
+  {
+    "model": "babbage-002",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      },
+      "Awareness": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      },
+      "Collection": {
+        "scores": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      }
+    },
+    "privacy_score": 4.0
+  },
+  {
+    "model": "davinci-002",
+    "dimensions": {
+      "Control": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      },
+      "Awareness": {
+        "scores": [
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      },
+      "Collection": {
+        "scores": [
+          4,
+          4,
+          4,
+          4
+        ],
+        "average": 4.0
+      }
+    },
+    "privacy_score": 4.0
+  }
+]
